@@ -1,0 +1,10 @@
+- Más tipos de enemigos
+- Que se puedan diferenciar los tipos de enemigos
+- Sistema de guardado de partida
+- Mapas procedurales aleatorios
+- Sistema de habilidades desbloqueables
+- Mayor generacion de enemigos
+- Generacion de enemigos a medida que avances
+- Mayor dificultad para llegar al centro
+- Reducir vida
+- Aumentar daño de enemigos
