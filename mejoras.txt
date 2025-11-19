@@ -8,3 +8,12 @@
 - Mayor dificultad para llegar al centro
 - Reducir vida
 - Aumentar daño de enemigos
+- Sistema de "capas/niveles" subiendo la dificultad
+- Añadir Bosses
+- Que los enemigos se puedan mover
+- Esconder enemigos?
+----------------------------------------
+--- QUE QUEDE MAS BONITO ---------------
+---- PONER EMOJIS O COSAS ASI ----------
+----- AL PROFE LE GUSTAN LOS COLORES ---
+----------------------------------------
