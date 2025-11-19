@@ -1,4 +1,4 @@
-# Etherside
+# Etherside-v0.0.1
 
 **Action RPG 2D con Sistema de Doble Forma**
 
